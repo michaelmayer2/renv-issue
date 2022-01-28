@@ -1,6 +1,6 @@
 {
     "id": "9E5744BD",
-    "path": "~/renv-project/project-B/test.R",
+    "path": "~/renv-project/renv-issue/project-B/test.R",
     "project_path": "test.R",
     "type": "r_source",
     "hash": "3344086747",
@@ -11,14 +11,16 @@
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "0,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1643359168,
+    "lastKnownWriteTime": 1643361656,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1643359168,
+    "last_content_update": 1643361656,
     "read_only": false,
     "read_only_alternatives": []
 }
